@@ -1,9 +1,9 @@
 import React from 'react';
 
-import "../src/icons/fontawesome.css";
-import "../src/icons/solid.css";
-import "../src/icons/regular.css";
-import "../src/icons/brands.css";
+import "./icons/fontawesome.css";
+import "./icons/solid.css";
+import "./icons/regular.css";
+import "./icons/brands.css";
 
 
 const AwIcon = props => {

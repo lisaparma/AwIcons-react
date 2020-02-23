@@ -1,7 +1,7 @@
 {
   "name": "awicons-react",
-  "version": "1.0.1",
-  "description": "Component to easily add Font Awesome Icons",
+  "version": "1.1.0",
+  "description": "Easily add Font Awesome Icons to React.js project",
   "main": "dist/index.js",
   "repository": {
     "type": "git",

@@ -1,5 +1,5 @@
 # AwIcons-react 
-React component to easily add Awesome Icons to your project.
+Easily add Awesome Icons to your project.
 
 You can see all icons [here](https://fontawesome.com/icons?d=gallery&m=free)
 
@@ -11,11 +11,13 @@ npm install awicons-react
 ~~~~
 
 ### Props
-You can specify some props:
-* _iconName_ : [required] take from [here](https://fontawesome.com/icons?d=gallery&m=free)
-* _className_ : pass className to defining rules on your scss file
-* _style_ : define inline style rules
-* _onClick_ : arrow function 
+| Props | Description |
+| --- | --- |
+| `iconName`    | [required] take from [here](https://fontawesome.com/icons?d=gallery&m=free) |
+| `className`   | pass className to define style rules on your scss file |
+| `style`       | define inline style rules |
+| `onClick`     | onClick arrow function |
+
 
 ### Use _AwIcon_ functional component in your file in this way:	
 ~~~~

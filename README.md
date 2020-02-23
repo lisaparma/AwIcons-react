@@ -10,10 +10,12 @@ You can see all icons [here](https://fontawesome.com/icons?d=gallery&m=free)
 git add submodule git@github.com:lisaparma/AwIcons.git
 ~~~~
 
-### 2. Use AwIcon functional component in your file in this way:	
+### 2. Use _AwIcon_ functional component in your file in this way:	
 ~~~~
     <AwIcon
       iconName="angle-left"
+      color="#FFFFFF"
+      size="12px"
       style={style.icon}
       onClick={this._goTo}
     />

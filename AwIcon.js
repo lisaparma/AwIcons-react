@@ -6,11 +6,11 @@ import "./icons/regular.scss";
 import "./icons/brands.scss";
 
 
-export default function AwIcon({ iconName, color, size, style, size, onClick }) {
+export default function AwIcon({ iconName, color, size, style, onClick }) {
 
   const divStyle = {
-    color: color ? color : '#000000',
-    'font-size': size ? size : '12px'
+    color: color ? color : null,
+    'font-size': size ? size : null
   };
 
   return (

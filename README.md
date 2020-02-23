@@ -1,5 +1,6 @@
-# AwIcons (v5.12.1)
-Sccs awemesome files to submodulize into React.js projects.
+# AwIcons-react 
+React component to easily add Awesome Icons to your project.
+
 You can see all icons [here](https://fontawesome.com/icons?d=gallery&m=free)
 
 ## How to use it
@@ -7,7 +8,7 @@ You can see all icons [here](https://fontawesome.com/icons?d=gallery&m=free)
 ### 1. Add this repo as submodule of your project with:
 	
 ~~~~
-git add submodule git@github.com:lisaparma/AwIcons.git
+git add submodule git@github.com:lisaparma/AwIcons-react.git
 ~~~~
 
 ### 2. Use _AwIcon_ functional component in your file in this way:	

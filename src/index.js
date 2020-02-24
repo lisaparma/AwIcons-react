@@ -10,17 +10,9 @@ const AwIcon = props => {
 
   const { iconName, className, style, onClick } = props;
 
-  const defaultStyle = {
-    color: "#000000",
-    fontSize: "12px",
-    padding: "6px"
-  };
-
-  const divStyle = Object.assign(defaultStyle, style);
-
   return (
     <div
-      style={divStyle}
+      style={style}
       className={className}
       onClick={onClick}
     >
